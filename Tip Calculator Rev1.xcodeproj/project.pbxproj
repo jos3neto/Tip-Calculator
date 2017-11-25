@@ -58,14 +58,9 @@
 		824E405D1FC8579700F7410E /* Tip Calculator Rev1 */ = {
 			isa = PBXGroup;
 			children = (
-				824E40611FC8579700F7410E /* AppDelegate.h */,
-				824E40621FC8579700F7410E /* AppDelegate.m */,
 				824E40641FC8579700F7410E /* ViewController.h */,
 				824E40651FC8579700F7410E /* ViewController.m */,
 				824E40671FC8579700F7410E /* Main.storyboard */,
-				824E406A1FC8579700F7410E /* Assets.xcassets */,
-				824E406C1FC8579700F7410E /* LaunchScreen.storyboard */,
-				824E406F1FC8579700F7410E /* Info.plist */,
 				824E405E1FC8579700F7410E /* Supporting Files */,
 			);
 			path = "Tip Calculator Rev1";
@@ -74,6 +69,11 @@
 		824E405E1FC8579700F7410E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				824E40611FC8579700F7410E /* AppDelegate.h */,
+				824E40621FC8579700F7410E /* AppDelegate.m */,
+				824E406A1FC8579700F7410E /* Assets.xcassets */,
+				824E406C1FC8579700F7410E /* LaunchScreen.storyboard */,
+				824E406F1FC8579700F7410E /* Info.plist */,
 				824E405F1FC8579700F7410E /* main.m */,
 			);
 			name = "Supporting Files";
